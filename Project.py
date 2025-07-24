@@ -2,7 +2,7 @@ import random
 
 secret_number=random.randint(1,100)
 
-print("\nHello Gamers")
+print("\n👋Hello Gamers😊")
 
 print("\n🎉🎉Welcome to The Guessing the Number game!!!🎉🎉")
 
