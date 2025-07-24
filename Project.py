@@ -8,6 +8,7 @@ print("\n🎉🎉Welcome to The Guessing the Number game!!!🎉🎉")
 
 print("\n🤔Let me think of a number")
 
+
 attempts=0
 
 while True:
