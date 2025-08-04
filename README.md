@@ -35,6 +35,8 @@ If it's "low," your guess is less than the secret number.
     -Terminal/Command Prompt
 
 ✨ Created with love and logic by [Namit-codeNovaXNamit]
+#ForTheLoveOfCode
+
 
 
 
