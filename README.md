@@ -1,3 +1,5 @@
+<img width="512" height="490" alt="image" src="https://github.com/user-attachments/assets/eca888ac-8a68-4a7a-9fc1-e58a360d155f" />
+
 Guess the Number - Python Project
 
 
@@ -36,6 +38,7 @@ If it's "low," your guess is less than the secret number.
 
 ✨ Created with love and logic by [Namit-codeNovaXNamit]
 #ForTheLoveOfCode
+
 
 
 
