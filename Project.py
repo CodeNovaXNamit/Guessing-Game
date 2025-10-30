@@ -10,6 +10,7 @@ print("\n🤔Let me think of a number")
 
 
 attempts=0
+#Game Loop
 
 while True:
     guess=input("Enter your guess, if you want to give up type 'exit'\n")
