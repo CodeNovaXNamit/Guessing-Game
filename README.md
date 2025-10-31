@@ -39,6 +39,8 @@ If it's "low," your guess is less than the secret number.
 ✨ Created with love and logic by [Namit-codeNovaXNamit]
 #ForTheLoveOfCode
 
+Share it
+
 
 
 
